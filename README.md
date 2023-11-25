@@ -7,21 +7,14 @@ This Repository contains all the questions and their write ups for the Ethical H
 |:---------------------------------------------------------:|:------:|:---------:|
 |  |   ✔    | -|
 
-|                       Cloud Pentest                       | STATUS | SOLVED BY |
+|                       Cryptography                      | STATUS | SOLVED BY |
 |:----------------------------------------------------------|:------:|:---------:|
 | |     ✔   |-|
 |      |  ✔  | - |
 
-|        Cryptography                       | STATUS | SOLVED BY |
-|:------------------------------------------|:------:|:--------:|
-|  |   ✔    | - |
-|                    |   ✔    | - |
 
-| Hardware | STATUS |  SOLVED BY |
-|:---------|:------:|:---------:|
-|    | ✔  | - |
 
-|                     Infrastructure Security Assessment                      | STATUS | SOLVED BY |
+|                     Stetnography                     | STATUS | SOLVED BY |
 |:----------------------------------------------------------------------------|:------:|:---------:|
 |              |   ✔   |-  |
 |                         |   ✔   |  -  |
@@ -29,31 +22,4 @@ This Repository contains all the questions and their write ups for the Ethical H
 | |   ✔   |  -  |
 |      |   ✔   | -  |
 
-|                     Miscellaneous                     | STATUS | SOLVED BY |
-|:------------------------------------------------------|:------:|:--------:|
-|           |   ✔   | -  |
-||   ✔   | -|
 
-| OSINT | STATUS | SOLVED BY |
-|:-----|:------:|:----------:|
-| |  ✔     |  [- |
-| | ✔ |- |
-|   | ✔ |  - |
-
-|                                      Reverse Engineering                                      | STATUS | SOLVED BY |
-|:----------------------------------------------------------------------------------------------|:------:|:-----:|
-|                        | ✔     |-|
-|  | ✔     | - |
-|    | ❌    |    |
-
-| Web Application Pentest                         | STATUS | SOLVED BY |
-|:------------------------------------------------|:------:|:---------:|
-|  |  ✔  | -|
-| |  ❌  |      |
-|  |  ❌  |      |
-|    |  ✔   |  - |
-
-|  Metaverse  | STATUS | SOLVED BY |
-|:------------|:------:|:---------:|
-|  |   ✔   | - |
-| |   ❌   |    |
